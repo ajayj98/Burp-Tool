@@ -1,0 +1,1 @@
+# Nmap 6.40 scan initiated Sun Jun  4 01:32:30 2017 as: nmap -sSV -p- -oA stage_ph -T4 31.192.117.70

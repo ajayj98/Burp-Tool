@@ -1,0 +1,8 @@
+/*
+
+An exception was thrown while analyzing 'unzipDoculus' (with sysroot '/'):
+
+DataFile::DataFile(const char*):
+	Fail to map "unzipDoculus" into memory
+
+*/

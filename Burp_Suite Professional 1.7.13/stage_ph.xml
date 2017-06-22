@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 6.40 scan initiated Sun Jun  4 01:32:30 2017 as: nmap -sSV -p- -oA stage_ph -T4 31.192.117.70 -->
+<nmaprun scanner="nmap" args="nmap -sSV -p- -oA stage_ph -T4 31.192.117.70" start="1496520150" startstr="Sun Jun  4 01:32:30 2017" version="6.40" xmloutputversion="1.04">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
